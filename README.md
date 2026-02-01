@@ -49,6 +49,7 @@ run["test_accuracy"] = 0.84
 ```
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neptune-ai/examples/blob/master/how-to-guides/hello-neptune/notebooks/hello_neptune.ipynb)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fneptune-client.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fneptune-client?ref=badge_shield)
 &nbsp;
 
 &nbsp;
@@ -104,3 +105,7 @@ If you get stuck or simply want to talk to us about something, here are your opt
 ## People behind
 
 Created with :heart: by the [neptune.ai team](https://neptune.ai/jobs#team)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fneptune-client.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fneptune-client?ref=badge_large)
